@@ -1,0 +1,13 @@
+Package: bdTreeSim
+Type: Package
+Title: Simulate Trees under the Birth-Death Model Conditioned on Sampling Times
+Version: 0.1.0
+Author: Jasmine Gamblin
+Maintainer: Jasmine Gamblin <jasmine.gamblin.2015@polytechnique.org>
+Description: This package allows to simulate phylogenetic trees under the constant-rate birt-death model, conditioned on the number of samples and their sampling dates.
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: HDInterval, stats, graphics
+RoxygenNote: 6.1.1
